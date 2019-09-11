@@ -5,8 +5,8 @@ OBS_LENGHT=1800
 START=`date +'%Y-%m-%d-%H:%M' -d '6am'`
 STOP=`date +'%Y-%m-%d-%H:%M' -d '6am +1 day'`
 
-# START=2019-09-10-14:40
-# STOP=2019-09-10-14:41
+# START=2019-09-11-08:21
+# STOP=2019-09-11-08:25
 # OBS_LENGHT=60
 
 
